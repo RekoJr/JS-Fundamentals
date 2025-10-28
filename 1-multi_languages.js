@@ -1,4 +1,2 @@
 
-console.log('C is Fun'); 
-console.log('Python is cool'); 
-console.log('Javascript is amazing')
+console.log('C is Fun','Javascript is amazing', 'Python is cool'); 
